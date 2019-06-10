@@ -1,5 +1,5 @@
 {
-  "name": "pug",
+  "name": "Pug",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "pug": "^2.0.3"
+  }
 }
